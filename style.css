@@ -1,0 +1,31 @@
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 0.5em;
+}
+
+h1 {
+  font-style: normal;
+  color: rgba(238, 6, 207, 0.63);
+  margin-bottom: 2em;
+  margin-top: 0em;
+}
+
+canvas {
+  border: 10px solid hotpink;
+  border-top-left-radius: 80px 50px;
+  border-bottom-right-radius: 80px 50px;
+}
+
+p {
+  margin: 0.2em
+}
+
+.chart-container {
+  background-color: rgba(223, 250, 229, 0.51);
+  position: relative;
+  height: 40%;
+  width: 100%;
+  max-width: 600px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
